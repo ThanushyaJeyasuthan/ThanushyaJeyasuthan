@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Java, which is a versatile and widely-used programming language.
 - 💞️ I’m looking to collaborate on interesting projects or initiatives related to Java development or any other tech-related endeavors
 - 📫 You can reach me through GitHub by sending a message or through any other contact details I might have shared on my profile.
-- 😄 Pronouns: Feel free to share your preferred pronouns!
+
 
 <!---
 ThanushyaJeyasuthan/ThanushyaJeyasuthan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
